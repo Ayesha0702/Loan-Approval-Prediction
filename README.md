@@ -75,13 +75,3 @@ And a plot of feature importance will be shown using seaborn.
 
 ✅ License
 This project is licensed for educational and non-commercial use.
-
-### ✅ Instructions
-
-1. Save the above as a file named `README.md` in your project folder.
-2. Then run:
-
-```bash
-git add README.md
-git commit -m "Added project README"
-git push
